@@ -250,6 +250,243 @@
     {
       "font": "Raleway",
       "type": "static",
+      "title": "Nos catégories de produits",
+      "height": 44,
+      "layout": "header_text",
+      "rotate": [],
+      "fontSize": 20,
+      "minWidth": 0,
+      "alignment": "centerLeft",
+      "marginTop": 12,
+      "textColor": "ff1f4751",
+      "fontWeight": 700,
+      "isSafeArea": false,
+      "marginLeft": 0,
+      "paddingTop": 0,
+      "showSearch": false,
+      "borderInput": false,
+      "marginRight": 0,
+      "paddingLeft": 16,
+      "textOpacity": 1,
+      "marginBottom": 0,
+      "paddingRight": 16,
+      "paddingBottom": 0,
+      "usePrimaryColor": true,
+      "backgroundGradientColor": [],
+      "key": "catHeader01"
+    },
+    {
+      "type": "image",
+      "wrap": true,
+      "horizontalItem": false,
+      "columns": 3,
+      "layout": "category",
+      "marginLeft": 10.0,
+      "marginRight": 10.0,
+      "marginTop": 8.0,
+      "marginBottom": 10.0,
+      "separateWidth": 8.0,
+      "shadow": null,
+      "gradientStyle": false,
+      "paddingX": 4.0,
+      "paddingY": 4.0,
+      "marginX": 0.0,
+      "marginY": 0.0,
+      "imageBoxFit": "cover",
+      "textAlignment": "bottomCenter",
+      "radius": 12.0,
+      "spacing": 8.0,
+      "imageBorderStyle": "solid",
+      "imageSpacing": 0.0,
+      "size": 1.0,
+      "border": 0.0,
+      "enableBorder": false,
+      "hideTitle": false,
+      "originalColor": true,
+      "noBackground": false,
+      "labelFontSize": 12.0,
+      "enableBackground": true,
+      "itemSize": {
+        "width": 110.0,
+        "height": 110.0
+      },
+      "items": [
+        {
+          "image": "https://cptechmaroc.ma/wp-content/uploads/2020/10/Panneaux-solaires-energie-solaire-produite-maroc.webp",
+          "title": "Panneaux solaires",
+          "keepDefaultTitle": false,
+          "showText": true,
+          "originalColor": true,
+          "showDescription": false,
+          "productType": false,
+          "onSale": false,
+          "featured": false,
+          "navigator": {
+            "url_launch": "https://cptechmaroc.ma/cp-produits-solaires-a-lunite/cp_produits_panneaux_solaires/"
+          }
+        },
+        {
+          "image": "https://cptechmaroc.ma/wp-content/uploads/2020/10/Onduleurs-solaires-energie-solaire-produite-maroc.webp",
+          "title": "Onduleurs solaires",
+          "keepDefaultTitle": false,
+          "showText": true,
+          "originalColor": true,
+          "showDescription": false,
+          "productType": false,
+          "onSale": false,
+          "featured": false,
+          "navigator": {
+            "url_launch": "https://cptechmaroc.ma/cp-produits-solaires-a-lunite/cp_produits_onduleur_solaire/"
+          }
+        },
+        {
+          "image": "https://cptechmaroc.ma/wp-content/uploads/2023/02/BTRY-OUTDO-CP-TECH-MAROC.png",
+          "title": "Batteries solaires",
+          "keepDefaultTitle": false,
+          "showText": true,
+          "originalColor": true,
+          "showDescription": false,
+          "productType": false,
+          "onSale": false,
+          "featured": false,
+          "navigator": {
+            "url_launch": "https://cptechmaroc.ma/cp-produits-solaires-a-lunite/cp_produits_batterie_solaire/"
+          }
+        },
+        {
+          "image": "https://cptechmaroc.ma/wp-content/uploads/2021/04/8-300x300.png",
+          "title": "Pompes hydraulique",
+          "keepDefaultTitle": false,
+          "showText": true,
+          "originalColor": true,
+          "showDescription": false,
+          "productType": false,
+          "onSale": false,
+          "featured": false,
+          "navigator": {
+            "url_launch": "https://cptechmaroc.ma/cp-produits-solaires-a-lunite/cp_produits_pompe_solaire/"
+          }
+        },
+        {
+          "image": "https://cptechmaroc.ma/wp-content/uploads/2026/01/Borne-de-recharge-voiture-electrique-HUAWEI-CP-300x300.webp",
+          "title": "Borne de recharge",
+          "keepDefaultTitle": false,
+          "showText": true,
+          "originalColor": true,
+          "showDescription": false,
+          "productType": false,
+          "onSale": false,
+          "featured": false,
+          "navigator": {
+            "url_launch": "https://cptechmaroc.ma/cp-produits-solaires-a-lunite/cp_produits_onduleur_solaire/borne-de-recharge-voiture-electrique/"
+          }
+        },
+        {
+          "image": "https://cptechmaroc.ma/wp-content/uploads/2020/10/Projecteurs-Lampadaires-energie-solaire-produite-maroc.webp",
+          "title": "Projecteurs & Lampadaires",
+          "keepDefaultTitle": false,
+          "showText": true,
+          "originalColor": true,
+          "showDescription": false,
+          "productType": false,
+          "onSale": false,
+          "featured": false,
+          "navigator": {
+            "url_launch": "https://cptechmaroc.ma/cp-produits-solaires-a-lunite/cp_produits_eclairage_solaire/"
+          }
+        },
+        {
+          "image": "https://cptechmaroc.ma/wp-content/uploads/2021/07/2-300x300.png",
+          "title": "Systèmes de montage",
+          "keepDefaultTitle": false,
+          "showText": true,
+          "originalColor": true,
+          "showDescription": false,
+          "productType": false,
+          "onSale": false,
+          "featured": false,
+          "navigator": {
+            "url_launch": "https://cptechmaroc.ma/cp-produits-solaires-a-lunite/cp_produits_support-fixation-solaire/"
+          }
+        },
+        {
+          "image": "https://cptechmaroc.ma/wp-content/uploads/2020/10/13.png",
+          "title": "Accessoires solaires",
+          "keepDefaultTitle": false,
+          "showText": true,
+          "originalColor": true,
+          "showDescription": false,
+          "productType": false,
+          "onSale": false,
+          "featured": false,
+          "navigator": {
+            "url_launch": "https://cptechmaroc.ma/cp-produits-solaires-a-lunite/cp_produits_accessoires_solaires/"
+          }
+        },
+        {
+          "image": "https://cptechmaroc.ma/wp-content/uploads/2026/01/chauffe-eau-solaire-CP-TECH-MAROC-300x300.webp",
+          "title": "Chauffe-eau solaire",
+          "keepDefaultTitle": false,
+          "showText": true,
+          "originalColor": true,
+          "showDescription": false,
+          "productType": false,
+          "onSale": false,
+          "featured": false,
+          "navigator": {
+            "url_launch": "https://cptechmaroc.ma/cp_kits_solaires/cp_kits_chauffe_eau_solaire/"
+          }
+        },
+        {
+          "image": "https://cptechmaroc.ma/wp-content/uploads/2021/07/3-300x300.png",
+          "title": "Convertisseurs de tension",
+          "keepDefaultTitle": false,
+          "showText": true,
+          "originalColor": true,
+          "showDescription": false,
+          "productType": false,
+          "onSale": false,
+          "featured": false,
+          "navigator": {
+            "url_launch": "https://cptechmaroc.ma/cp-produits-solaires-a-lunite/cp_produits_convertisseur_solaire_pur_pseudo_sinus/"
+          }
+        },
+        {
+          "image": "https://cptechmaroc.ma/wp-content/uploads/2024/09/Cofferts-300x300-1-300x300.webp",
+          "title": "Coffrets solaires",
+          "keepDefaultTitle": false,
+          "showText": true,
+          "originalColor": true,
+          "showDescription": false,
+          "productType": false,
+          "onSale": false,
+          "featured": false,
+          "navigator": {
+            "url_launch": "https://cptechmaroc.ma/cp-produits-solaires-a-lunite/cp_produits_coffret_solaire_pre_cable/"
+          }
+        },
+        {
+          "image": "https://cptechmaroc.ma/wp-content/uploads/2021/07/7-300x300.png",
+          "title": "Variateurs de fréquence",
+          "keepDefaultTitle": false,
+          "showText": true,
+          "originalColor": true,
+          "showDescription": false,
+          "productType": false,
+          "onSale": false,
+          "featured": false,
+          "navigator": {
+            "url_launch": "https://cptechmaroc.ma/cp-produits-solaires-a-lunite/cp_produits_variateur_pompage_solaire/"
+          }
+        }
+      ],
+      "key": "categoriesGrid01",
+      "isBulk": null,
+      "isPreviewing": null
+    },
+    {
+      "font": "Raleway",
+      "type": "static",
       "title": "Nos Solutions Solaires",
       "height": 44,
       "layout": "header_text",
